@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/settings.json
+wp-and-gsheets-f367b7bccab9.json
+.gitignore
